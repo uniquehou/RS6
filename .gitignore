@@ -1,4 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
+﻿# Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -126,3 +126,4 @@ dmypy.json
 
 /第一章 代码章节/
 /.idea/
+/.ipynb_checkpoints/

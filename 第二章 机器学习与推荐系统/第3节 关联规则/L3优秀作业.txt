@@ -1,3 +1,0 @@
-L3优秀作业  
-王洪生 https://github.com/thinksee/Learning-Recsys-with-python
-何 扬  https://github.com/heyaug/homework/tree/master/L3
